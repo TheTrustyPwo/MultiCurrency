@@ -1,0 +1,6 @@
+name: MultiCurrency
+version: '${version}'
+main: com.thepwo.multicurrency.MultiCurrency
+api-version: 1.18
+authors: [ ThePwo ]
+description: MultiCurrency
